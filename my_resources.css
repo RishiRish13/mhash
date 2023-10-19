@@ -1,127 +1,129 @@
-.my-resources1 {
-    margin: 0;
-  }
-  .my-resources {
-    position: absolute;
-    top: 70px;
-    left: 103px;
-    font-size: var(--font-size-26xl);
-    font-weight: 800;
-  }
-  .business-for-amateurs-,
-  .ongoing- {
-    position: absolute;
-    left: 103px;
-    font-weight: 800;
-    color: var(--color-aqua);
-  }
-  .ongoing- {
-    top: 194px;
-    font-size: var(--font-size-26xl);
-  }
-  .business-for-amateurs- {
-    top: 302px;
-  }
-  .macbook-air-5-child {
-    text-decoration: none;
-    position: absolute;
-    top: 378px;
-    left: 103px;
-    width: 273px;
-    height: 322px;
-    background-image: url(buis.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
-  }
-  .reference-book {
-    position: absolute;
-    top: 734px;
-    left: 103px;
-    font-weight: 800;
-  }
-  .macbook-air-5-item {
-    text-decoration: none;
-    position: absolute;
-    top: 455px;
-    left: 481px;
-    width: 286px;
-    height: 167px;
-    background-image: url(buis_m.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top;
-  }
-  .video-lectures {
-    position: absolute;
-    top: 661px;
-    left: 497px;
-    font-weight: 800;
-  }
-  .macbook-air-5-inner {
-    position: absolute;
-    top: 501px;
-    left: 871px;
-    border-radius: var(--br-xl);
-    width: 250px;
-    height: 76px;
-  }
-  .take-quiz {
-    cursor: pointer;
-    border: 0;
-    padding: 0;
-    background-color: transparent;
-    position: absolute;
-    top: 521px;
-    left: 928px;
-    font-size: var(--font-size-11xl);
-    font-weight: 800;
-    font-family: var(--font-inter);
-    color: var(--color-black);
-    text-align: center;
-    display: inline-block;
-  }
-  .rectangle-icon {
-    position: absolute;
-    top: 695px;
-    left: 810px;
-    border-radius: var(--br-xl);
-    width: 422px;
-    height: 76px;
-  }
-  .div {
-    position: absolute;
-    top: 718px;
-    left: 842px;
-    font-size: var(--font-size-11xl);
-    font-weight: 800;
-    color: var(--color-black);
-  }
-  .macbook-air-5,
-  .mark-as-completed {
-    text-align: center;
-    font-family: var(--font-inter);
-  }
-  .mark-as-completed {
-    cursor: pointer;
-    border: 0;
-    padding: 0;
-    background-color: transparent;
-    position: absolute;
-    top: 715px;
-    left: 895px;
-    font-size: var(--font-size-11xl);
-    font-weight: 800;
-    color: var(--color-black);
-    display: inline-block;
-  }
-  .macbook-air-5 {
-    position: relative;
-    background-color: var(--color-black);
-    width: 100%;
-    height: 832px;
-    overflow: hidden;
-    font-size: var(--font-size-16xl);
-    color: var(--color-white);
-  }
-  
+.untitled-design-2-3 {
+  position: absolute;
+  top: -178px;
+  left: -404px;
+  width: 1920px;
+  height: 1080px;
+  background-image: url(Untitled\ design\ \(2\).png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.ongoing-1 {
+  margin: 0;
+}
+.business-for-amateurs-,
+.ongoing- {
+  position: absolute;
+  left: 103px;
+  font-weight: 800;
+  color: var(--color-aqua);
+}
+.ongoing- {
+  top: 178px;
+  font-size: var(--font-size-26xl);
+}
+.business-for-amateurs- {
+  top: 286px;
+}
+.macbook-air-5-child {
+  text-decoration: none;
+  position: absolute;
+  top: 362px;
+  left: 103px;
+  width: 273px;
+  height: 322px;
+  background-image: url(buis.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.reference-book {
+  position: absolute;
+  top: 718px;
+  left: 103px;
+  font-weight: 800;
+}
+.macbook-air-5-item {
+  text-decoration: none;
+  position: absolute;
+  top: 439px;
+  left: 481px;
+  width: 286px;
+  height: 167px;
+  background-image: url(buis_m.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.video-lectures {
+  position: absolute;
+  top: 645px;
+  left: 497px;
+  font-weight: 800;
+}
+.macbook-air-5-inner {
+  position: absolute;
+  top: 699px;
+  left: 640px;
+  border-radius: var(--br-79xl);
+  width: 585px;
+  height: 519px;
+}
+.mark-as-completed {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 718px;
+  left: 803px;
+  font-size: var(--font-size-11xl);
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 480px;
+  left: 864px;
+  border-radius: var(--br-79xl);
+  width: 310px;
+  height: 85px;
+}
+.my-resources,
+.take-quiz {
+  position: absolute;
+  font-weight: 800;
+}
+.take-quiz {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 505px;
+  left: 945px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+}
+.my-resources {
+  top: 70px;
+  left: 103px;
+  font-size: var(--font-size-26xl);
+}
+.macbook-air-5 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
