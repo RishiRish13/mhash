@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-squada-one: "Squada One";
+  
+    /* font sizes */
+    --font-size-21xl: 40px;
+    --font-size-6xl: 25px;
+    --font-size-2xl: 21px;
+    --font-size-lg: 18px;
+    --font-size-xs: 12px;
+  
+    /* Colors */
+    --color-aqua: #01effe;
+    --color-deeppink: #ff007f;
+    --color-yellowgreen: #d4ff59;
+    --color-gray: #1e1e1e;
+    --color-white: #fff;
+  }
+  

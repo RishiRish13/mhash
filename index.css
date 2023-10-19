@@ -1,0 +1,327 @@
+.recommended-resources {
+    margin: 0;
+    position: absolute;
+    top: 44px;
+    left: 63px;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .reference-books {
+    margin: 0;
+    top: 117px;
+    left: 63px;
+    font-size: var(--font-size-6xl);
+    font-family: inherit;
+    color: var(--color-aqua);
+  }
+  .physics-for-class,
+  .quick-reads,
+  .reference-books {
+    position: absolute;
+    font-weight: 600;
+  }
+  .quick-reads {
+    margin: 0;
+    top: 368px;
+    left: 63px;
+    font-size: var(--font-size-6xl);
+    font-family: inherit;
+    color: var(--color-aqua);
+  }
+  .image-1-icon {
+    position: absolute;
+    top: 167px;
+    left: 65px;
+    width: 112.01px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .physics-for-class {
+    top: 328px;
+    left: 64px;
+  }
+  .image-2-icon {
+    position: absolute;
+    top: 167px;
+    left: 226px;
+    width: 112.01px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .chemistry-for-class {
+    margin: 0;
+  }
+  .chemistry-for-class-container {
+    position: absolute;
+    top: 327px;
+    left: 222px;
+    font-weight: 600;
+  }
+  .image-3-icon {
+    position: absolute;
+    top: 167px;
+    left: 387px;
+    width: 115.91px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .mathematics-for-class {
+    position: absolute;
+    top: 328px;
+    left: 372px;
+    font-weight: 600;
+  }
+  .image-4-icon {
+    position: absolute;
+    top: 167px;
+    left: 552px;
+    width: 97.06px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .french-revolution {
+    position: absolute;
+    top: 328px;
+    left: 552px;
+    font-weight: 600;
+  }
+  .image-5-icon {
+    position: absolute;
+    top: 167px;
+    left: 686px;
+    width: 104.9px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .gullivers-travels {
+    position: absolute;
+    top: 327px;
+    left: 689px;
+    font-weight: 600;
+  }
+  .image-6-icon,
+  .image-7-icon,
+  .image-8-icon {
+    position: absolute;
+    top: 167px;
+    left: 840px;
+    width: 114.82px;
+    height: 150px;
+    object-fit: cover;
+  }
+  .image-7-icon,
+  .image-8-icon {
+    left: 992px;
+    width: 100.05px;
+  }
+  .image-8-icon {
+    left: 1141px;
+  }
+  .all-about-human-container,
+  .light,
+  .the-mole {
+    position: absolute;
+    top: 327px;
+    left: 832px;
+    font-weight: 600;
+  }
+  .light,
+  .the-mole {
+    top: 325px;
+    left: 1027px;
+  }
+  .the-mole {
+    top: 327px;
+    left: 1164px;
+  }
+  .macbook-air-4-child {
+    text-decoration: none;
+    position: absolute;
+    top: 423px;
+    left: 1036px;
+    background-color: var(--color-deeppink);
+    width: 110px;
+    height: 150px;
+  }
+  .macbook-air-4-item {
+    text-decoration: none;
+    left: 875px;
+  }
+  .macbook-air-4-child1,
+  .macbook-air-4-child2,
+  .macbook-air-4-inner,
+  .macbook-air-4-item,
+  .rectangle-div {
+    position: absolute;
+    top: 423px;
+    background-color: var(--color-deeppink);
+    width: 110px;
+    height: 150px;
+  }
+  .macbook-air-4-inner {
+    text-decoration: none;
+    left: 714px;
+  }
+  .macbook-air-4-child1,
+  .macbook-air-4-child2,
+  .rectangle-div {
+    left: 553px;
+  }
+  .macbook-air-4-child1,
+  .macbook-air-4-child2 {
+    left: 388px;
+  }
+  .macbook-air-4-child2 {
+    left: 227px;
+  }
+  .chemistry-notes {
+    margin: 0;
+    position: absolute;
+    top: 468px;
+    left: 239px;
+    font-size: var(--font-size-lg);
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    width: 106px;
+  }
+  .rectangle-a {
+    text-decoration: none;
+    position: absolute;
+    top: 423px;
+    left: 1197px;
+    background-color: var(--color-deeppink);
+    width: 110px;
+    height: 150px;
+  }
+  .history-notes {
+    margin: 0;
+    position: absolute;
+    top: 471px;
+    left: 1211px;
+    font-size: var(--font-size-lg);
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    width: 106px;
+  }
+  .macbook-air-4-child3 {
+    position: absolute;
+    top: 423px;
+    left: 63px;
+    background-color: var(--color-deeppink);
+    width: 110px;
+    height: 150px;
+  }
+  .video-lectures {
+    margin: 0;
+    position: absolute;
+    top: 604px;
+    left: 63px;
+    font-size: var(--font-size-6xl);
+    font-weight: 600;
+    font-family: inherit;
+    color: var(--color-aqua);
+  }
+  .biology-notes,
+  .physics-notes {
+    top: 468px;
+    font-size: var(--font-size-2xl);
+  }
+  .physics-notes {
+    margin: 0;
+    position: absolute;
+    left: 73px;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    width: 106px;
+  }
+  .biology-notes {
+    left: 1046px;
+  }
+  .biology-notes,
+  .civics-notes,
+  .economicsnotes,
+  .english-notes,
+  .maths-notes {
+    margin: 0;
+    position: absolute;
+    font-weight: 600;
+    font-family: inherit;
+    display: inline-block;
+    width: 106px;
+  }
+  .economicsnotes {
+    top: 471px;
+    left: 886px;
+    font-size: var(--font-size-lg);
+    height: 44px;
+  }
+  .civics-notes,
+  .english-notes,
+  .maths-notes {
+    top: 468px;
+    left: 726px;
+    font-size: var(--font-size-2xl);
+  }
+  .english-notes,
+  .maths-notes {
+    top: 469px;
+    left: 565px;
+  }
+  .maths-notes {
+    left: 400px;
+  }
+  .macbook-air-4-child4,
+  .macbook-air-4-child5,
+  .macbook-air-4-child6,
+  .macbook-air-4-child7,
+  .macbook-air-4-child8,
+  .macbook-air-4-child9 {
+    text-decoration: none;
+    position: absolute;
+    top: 664px;
+    left: 64px;
+    background-color: var(--color-yellowgreen);
+    width: 158px;
+    height: 96px;
+  }
+  .macbook-air-4-child5,
+  .macbook-air-4-child6,
+  .macbook-air-4-child7,
+  .macbook-air-4-child8,
+  .macbook-air-4-child9 {
+    left: 1216px;
+  }
+  .macbook-air-4-child6,
+  .macbook-air-4-child7,
+  .macbook-air-4-child8,
+  .macbook-air-4-child9 {
+    left: 988px;
+  }
+  .macbook-air-4-child7,
+  .macbook-air-4-child8,
+  .macbook-air-4-child9 {
+    left: 753px;
+  }
+  .macbook-air-4-child8,
+  .macbook-air-4-child9 {
+    left: 522px;
+  }
+  .macbook-air-4-child9 {
+    left: 292px;
+  }
+  .macbook-air-4 {
+    position: relative;
+    background-color: #1e1e1e;
+    width: 100%;
+    height: 832px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
