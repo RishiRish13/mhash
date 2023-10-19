@@ -1,0 +1,111 @@
+.untitled-design-2-2 {
+    position: absolute;
+    top: 41px;
+    left: 41px;
+    width: 1198px;
+    height: 751px;
+    object-fit: cover;
+  }
+  .macbook-air-6-child {
+    position: absolute;
+    top: 143px;
+    left: 173px;
+    border-radius: var(--br-79xl);
+    background-color: var(--color-khaki-200);
+    width: 605px;
+    height: 547px;
+  }
+  .name {
+    margin: 0;
+  }
+  .name-total-points-container {
+    position: absolute;
+    top: 182px;
+    left: 149px;
+    line-height: 140.63%;
+    display: inline-block;
+    width: 383px;
+    height: 431px;
+  }
+  .macbook-air-6-inner,
+  .macbook-air-6-item {
+    text-decoration: none;
+    position: absolute;
+    top: 182px;
+    left: 395px;
+    background-color: var(--color-khaki-200);
+    width: 245px;
+    height: 46px;
+  }
+  .macbook-air-6-inner {
+    top: 605px;
+    left: 432px;
+    width: 44px;
+    height: 38px;
+  }
+  .macbook-air-6-child1,
+  .macbook-air-6-child2,
+  .macbook-air-6-child3,
+  .rectangle-a {
+    text-decoration: none;
+    position: absolute;
+    top: 512px;
+    left: 486px;
+    background-color: var(--color-khaki-200);
+    width: 245px;
+    height: 46px;
+  }
+  .macbook-air-6-child1,
+  .macbook-air-6-child2,
+  .macbook-air-6-child3 {
+    top: 435px;
+    left: 441px;
+  }
+  .macbook-air-6-child2,
+  .macbook-air-6-child3 {
+    top: 351px;
+    left: 460px;
+  }
+  .macbook-air-6-child3 {
+    top: 266px;
+    left: 432px;
+  }
+  .ellipse-icon,
+  .profile {
+    position: absolute;
+    top: 994px;
+    left: 947.5px;
+    width: 238px;
+    height: 272px;
+  }
+  .profile {
+    top: 70px;
+    left: 518px;
+    font-size: var(--font-size-21xl);
+    line-height: 140.63%;
+    display: inline-block;
+    color: var(--color-yellowgreen);
+    width: 196px;
+    height: 45px;
+  }
+  .rectangle-input {
+    border: 0;
+    background-color: var(--color-khaki-200);
+    position: absolute;
+    top: 143px;
+    left: 917px;
+    width: 184px;
+    height: 167px;
+  }
+  .macbook-air-6 {
+    position: relative;
+    background-color: var(--color-yellowgreen);
+    width: 100%;
+    height: 832px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-11xl);
+    color: var(--color-gray-100);
+    font-family: var(--font-roboto);
+  }
+  
