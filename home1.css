@@ -1,0 +1,172 @@
+.home-page-child {
+    position: absolute;
+    top: 167px;
+    left: -53px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+    width: 146px;
+    height: 47px;
+  }
+  .untitled-design-2-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 832px;
+    background-image: url(Untitled\ design\ \(2\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .ask-the-legends,
+  .focal-point {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 188px;
+    left: 282px;
+    font-size: var(--font-size-6xl);
+    font-weight: 800;
+    font-family: var(--font-inter);
+    color: var(--color-deeppink);
+    text-align: left;
+    display: inline-block;
+    width: 224px;
+    height: 42px;
+  }
+  .focal-point {
+    top: 190px;
+    left: 593px;
+    width: 158px;
+    height: 39px;
+  }
+  .home-page-item {
+    position: absolute;
+    top: 637px;
+    left: 625px;
+    background-color: var(--color-gainsboro);
+    width: 611px;
+    height: 78px;
+    display: none;
+  }
+  .loginsignup,
+  .warprep {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 188px;
+    left: 852px;
+    font-size: var(--font-size-6xl);
+    font-weight: 800;
+    font-family: var(--font-inter);
+    color: var(--color-deeppink);
+    text-align: left;
+    display: inline-block;
+  }
+  .loginsignup {
+    top: 190px;
+    left: 1030px;
+    width: 178px;
+    height: 36px;
+  }
+  .level-up-your-learning {
+    margin: 0;
+  }
+  .education {
+    color: var(--color-aqua);
+  }
+  .meets {
+    color: var(--color-yellowgreen);
+  }
+  .where-education-meets-gaming {
+    margin: 0;
+    font-size: var(--font-size-21xl);
+  }
+  .level-up-your-container {
+    position: absolute;
+    top: 416px;
+    left: 28px;
+    font-weight: 800;
+    font-family: var(--font-inter);
+    text-align: left;
+    display: inline-block;
+    width: 824px;
+    height: 118px;
+    font-size: 60px;
+    color: var(--color-yellowgreen);
+  }
+  .your-paragraph-text-13-1 {
+    position: absolute;
+    top: 12px;
+    left: 300px;
+    width: 243px;
+    height: 155px;
+    object-fit: cover;
+  }
+  .enhance-your-educational,
+  .gamed {
+    position: absolute;
+    display: inline-block;
+  }
+  .gamed {
+    margin: 0;
+    top: 20px;
+    left: 506px;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    width: 402px;
+    height: 139px;
+  }
+  .enhance-your-educational {
+    top: 569px;
+    left: 28px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: var(--font-inter);
+    color: var(--color-aqua);
+    width: 666px;
+    height: 79px;
+  }
+  .home-page-inner {
+    position: absolute;
+    top: 192px;
+    left: 105px;
+    border-radius: var(--br-xl);
+    width: 124px;
+    height: 31px;
+  }
+  .warzone {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    bottom: 609px;
+    left: calc(50% - 630px);
+    font-size: var(--font-size-6xl);
+    font-weight: 800;
+    font-family: var(--font-inter);
+    color: var(--color-deeppink);
+    text-align: left;
+    display: inline-block;
+    width: 153px;
+    height: 30px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .home-page {
+    position: relative;
+    background-color: var(--color-black);
+    width: 100%;
+    height: 832px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 125px;
+    color: var(--color-yellowgreen);
+    font-family: var(--font-squada-one);
+  }
+  
