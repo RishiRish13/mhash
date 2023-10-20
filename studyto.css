@@ -1,0 +1,301 @@
+.untitled-design-2-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 832px;
+    object-fit: cover;
+  }
+  .background,
+  .media-background,
+  .media-object {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-lightskyblue);
+  }
+  .media-background,
+  .media-object {
+    background-color: var(--color-aqua);
+  }
+  .media-object {
+    height: 60%;
+    width: 44.44%;
+    top: 20%;
+    right: 28.06%;
+    bottom: 20%;
+    left: 27.5%;
+    border-radius: 8px;
+    background-color: var(--color-white);
+    display: none;
+  }
+  .background1,
+  .media {
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    top: 0;
+    right: 50%;
+    bottom: 0;
+    left: 0;
+  }
+  .background1 {
+    width: 100%;
+    right: 0;
+    border-radius: var(--br-8xs);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .text {
+    position: absolute;
+    width: calc(100% - 32.58px);
+    top: calc(50% - 11.65px);
+    left: 17px;
+    font-size: var(--font-size-lg);
+    line-height: 134.77%;
+    font-family: var(--font-roboto);
+    color: var(--color-black);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .button-secondary {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    height: 24.69%;
+    width: 54.95%;
+    top: 75.31%;
+    right: 45.05%;
+    bottom: 0;
+    left: 0;
+  }
+  .subtitle {
+    width: 115.95%;
+    top: 30.45%;
+    left: 0;
+    line-height: 140.63%;
+    display: none;
+  }
+  .content,
+  .subtitle,
+  .title {
+    position: absolute;
+  }
+  .title {
+    top: 0;
+    left: 0;
+    font-size: 24px;
+    line-height: 140.63%;
+  }
+  .content {
+    height: 40.5%;
+    width: 25.27%;
+    top: 29.83%;
+    right: 16.74%;
+    bottom: 29.67%;
+    left: 57.99%;
+  }
+  .feature-split-right {
+    position: absolute;
+    top: 177px;
+    left: 143px;
+    background-color: var(--color-lightskyblue);
+    width: 1005px;
+    height: 553px;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  .background2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    border: 1px solid var(--color-aqua);
+    box-sizing: border-box;
+  }
+  .text1 {
+    position: absolute;
+    width: calc(100% - 33px);
+    top: calc(50% - 16.5px);
+    left: 17px;
+    font-size: var(--font-size-6xl);
+    line-height: 134.77%;
+    font-family: var(--font-roboto);
+    color: var(--color-aqua);
+    text-align: left;
+    display: flex;
+    align-items: center;
+  }
+  .button-secondary1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 56px;
+    left: 41px;
+    width: 102px;
+    height: 35px;
+  }
+  .study-together,
+  .the-problem-which {
+    position: absolute;
+    line-height: 140.63%;
+    display: inline-block;
+  }
+  .study-together {
+    margin: 0;
+    top: 10px;
+    left: 398px;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: var(--font-road-rage);
+    width: 483px;
+    height: 92px;
+  }
+  .the-problem-which {
+    top: 384px;
+    left: 722px;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    text-align: left;
+    width: 426px;
+    height: 115px;
+  }
+  .bored-of-studying {
+    margin: 0;
+    position: absolute;
+    top: 122px;
+    left: 251px;
+    font-size: var(--font-size-6xl);
+    line-height: 140.63%;
+    font-weight: 800;
+    font-family: inherit;
+  }
+  .macbook-air-8-child {
+    text-decoration: none;
+    position: absolute;
+    top: 251px;
+    left: 221px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-lightskyblue);
+    width: 101px;
+    height: 91px;
+  }
+  .macbook-air-8-child1,
+  .macbook-air-8-child2,
+  .macbook-air-8-child3,
+  .macbook-air-8-child4,
+  .macbook-air-8-inner,
+  .macbook-air-8-item,
+  .rectangle-a {
+    text-decoration: none;
+    position: absolute;
+    top: 472px;
+    left: 292px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-lightskyblue);
+    width: 101px;
+    height: 91px;
+  }
+  .macbook-air-8-child1,
+  .macbook-air-8-child2,
+  .macbook-air-8-child3,
+  .macbook-air-8-child4,
+  .macbook-air-8-inner,
+  .rectangle-a {
+    left: 414px;
+  }
+  .macbook-air-8-child1,
+  .macbook-air-8-child2,
+  .macbook-air-8-child3,
+  .macbook-air-8-child4,
+  .rectangle-a {
+    top: 364px;
+    left: 465px;
+  }
+  .macbook-air-8-child1,
+  .macbook-air-8-child2,
+  .macbook-air-8-child3,
+  .macbook-air-8-child4 {
+    left: 343px;
+  }
+  .macbook-air-8-child2,
+  .macbook-air-8-child3,
+  .macbook-air-8-child4 {
+    top: 359px;
+    left: 221px;
+  }
+  .macbook-air-8-child3,
+  .macbook-air-8-child4 {
+    top: 251px;
+    left: 343px;
+  }
+  .macbook-air-8-child4 {
+    left: 465px;
+  }
+  .black-white-simple-minimalist,
+  .black-white-simple-minimalist1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: var(--color-lightskyblue);
+    position: absolute;
+    top: 628px;
+    left: 398px;
+    border-radius: var(--br-93xl-5);
+    width: 63px;
+    height: 64px;
+  }
+  .black-white-simple-minimalist1 {
+    left: 322px;
+    border-radius: var(--br-78xl-5);
+  }
+  .black-white-simple-minimalist2,
+  .black-white-simple-minimalist3 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 628px;
+    left: 398px;
+    border-radius: var(--br-93xl-5);
+    width: 63px;
+    height: 64px;
+    background-image: url(mute.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .black-white-simple-minimalist3 {
+    left: 322px;
+    border-radius: var(--br-78xl-5);
+    background-image: url(video.png);
+  }
+  .macbook-air-8 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 832px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-81xl);
+    color: var(--color-aqua);
+    font-family: var(--font-roboto);
+  }
+  
