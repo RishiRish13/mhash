@@ -1,0 +1,54 @@
+
+.App {
+    text-align: center;
+    background-color: #333;
+    color: #444;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .Profile, .Search {
+    background-color: #444;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: left;
+    color: #fff;
+  }
+  
+  .Search {
+    text-align: center;
+  }
+  
+  input, button {
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    background-color: #555;
+    color: #fff;
+    border-radius: 5px;
+    outline: none;
+    width: 100%;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  .navbar {
+    text-align: left;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    background-color: #555;
+    color: #555;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
